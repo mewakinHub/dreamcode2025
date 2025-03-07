@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+
+#cesiumContainer {
+  height: 100vh;
+  width: 100%;
+}
